@@ -23,28 +23,3 @@ while (not (stop)):
 
 
     if (input("Do you wish to try another AMKA? Y/N ") != "Y"): stop = True
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
